@@ -1,6 +1,7 @@
 # gh-reopener
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+GitHub bot by probot for reopen issue without milestone and label.
+By GitHub App built with [probot](https://github.com/probot/probot)
 
 ## Setup
 
